@@ -3,6 +3,9 @@
 This project is a simple counter web application that allows users to increment, decrement, and reset a counter value. The project is built using HTML, CSS, and JavaScript. Below you will find an overview of the project files, instructions on how to set up and run the project, and a description of the JavaScript implementation.
 
 
+![Animation - 1723027768746](https://github.com/user-attachments/assets/6dadba32-dea6-46c5-99cc-b43f25de8995)
+
+
 ## Table of Contents
 
 1. [Project Structure](#project-structure)
@@ -19,6 +22,7 @@ counter-project/
 ├── style.css
 └── main.js
 ```
+![Npm Downloads](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![Npm Downloads](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Npm Downloads](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## Setup and Installation
 To set up and run the project, follow these steps:
